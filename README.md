@@ -1,7 +1,10 @@
 ### Projeto To-Do (Lista de Tarefas)
 
 Este projeto To-Do é uma aplicação iOS construída em Swift utilizando a arquitetura SwiftUI. Ele oferece uma lista de tarefas interativa, permitindo aos usuários adicionar, marcar como concluídas e excluir tarefas.
+
 <img width="353" alt="Captura de Tela 2024-01-08 às 18 15 43" src="https://github.com/victorbrigido/ToDo/assets/110338761/e6b540d3-ee75-44e0-9f98-afb7abdb96bb">
+
+
 <img width="346" alt="Captura de Tela 2024-01-08 às 18 16 07" src="https://github.com/victorbrigido/ToDo/assets/110338761/8ee04794-b6a5-401b-9a1b-f8b5ba6551b2">
 
 #### Principais recursos:
@@ -9,7 +12,9 @@ Este projeto To-Do é uma aplicação iOS construída em Swift utilizando a arqu
 - **Lista de Tarefas Interativa:** Os usuários podem adicionar novas tarefas, marcar como concluídas e excluir tarefas existentes.
 - **Interface Amigável:** Uma interface intuitiva e amigável, adaptável ao modo claro e escuro do dispositivo.
 - **Armazenamento Local:** Utiliza o Realm como banco de dados local para garantir uma experiência de usuário rápida e responsiva.
+
 <img width="347" alt="Captura de Tela 2024-01-08 às 18 16 28" src="https://github.com/victorbrigido/ToDo/assets/110338761/f70f6fe4-a44b-40fb-916f-a05067388aa1">
+
 <img width="350" alt="Captura de Tela 2024-01-08 às 18 16 46" src="https://github.com/victorbrigido/ToDo/assets/110338761/aae764b7-d8fb-41e8-836e-9a7a826c7ccc">
 
 #### Tecnologias Principais:
@@ -18,7 +23,10 @@ Este projeto To-Do é uma aplicação iOS construída em Swift utilizando a arqu
 - **UIKit Integration:** Integração de elementos UIKit, como botões e campos de texto, dentro do SwiftUI para funcionalidades específicas.
 
 Esta aplicação To-Do é uma ótima introdução ao desenvolvimento iOS usando SwiftUI e RealmSwift, demonstrando como criar uma aplicação funcional de lista de tarefas.
+
+
 <img width="338" alt="Captura de Tela 2024-01-08 às 18 20 27" src="https://github.com/victorbrigido/ToDo/assets/110338761/3f78f3a3-37ef-449d-b6fd-cb055132606d">
+
 <img width="373" alt="Captura de Tela 2024-01-08 às 18 20 43" src="https://github.com/victorbrigido/ToDo/assets/110338761/fc8cc031-3235-4910-8934-d5afd18d83f9">
 
 ### Habilidades Demonstradas
